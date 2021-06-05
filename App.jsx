@@ -9,6 +9,7 @@ function App() {
       <Footer />
       <Note />
       <Note />
+      <Note />
     </div>
   );
 }
